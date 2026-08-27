@@ -6,11 +6,8 @@
 
 
 <br><br><br>
-<div align="left" style="margin-bottom:40px;">
-<li>🛡️ D-Security: A <a href="http://top.gg/bot/1031537502017826826/">Discord Bot</a> that protects your guild and users against bad actors</li>
-
-<li>✉️ contact@auchen.net</li>
-
-<li>📫 <a href="https://discord.gg/RbKeh3v8SV">Official discord server</a></li>
-
+<div align="center" style="margin-bottom:40px;">
+  <p>• 🛡️ D-Security: A <a href="http://top.gg/bot/1031537502017826826/">Discord Bot</a> that protects your guild and users against bad actors</p>
+  <p>• ✉️ contact@auchen.net</p>
+  <p>• 📫 <a href="https://discord.gg/RbKeh3v8SV">Official discord server</a></p>
 </div>
